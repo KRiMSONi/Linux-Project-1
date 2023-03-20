@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"iomanip": "cpp",
+			"ios": "cpp",
+			"string": "cpp",
+			"istream": "cpp",
+			"xstring": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
